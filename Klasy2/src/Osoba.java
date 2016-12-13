@@ -11,7 +11,7 @@ this.nazwisko = nazwiskoP;
 this.rokUrodzenia = rokUrodzeniaP;
 }
 public void show (){
-	System.out.println(imie +" "+ nazwisko + rokUrodzenia);
+	System.out.println(imie +" ; "+ nazwisko + rokUrodzenia);
 }
 
 }
